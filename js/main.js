@@ -1,1 +1,2 @@
-console.log('hellow world');
+const welcome = "hellow world";
+console.log(welcome);
